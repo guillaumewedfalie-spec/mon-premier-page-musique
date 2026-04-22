@@ -50,6 +50,19 @@ h1 {
     letter-spacing: 5px;
 }
 
+.bemol {
+    display: inline-block;
+    background: rgba(255,77,77,0.2);
+    border: 1px solid #ff4d4d;
+    padding: 8px 20px;
+    border-radius: 50px;
+    font-size: 0.9rem;
+    margin-top: 10px;
+    color: #ff4d4d;
+}
+
+.bemol span { font-weight: bold; text-transform: uppercase; margin-right: 5px; color: white;}
+
 .line {
     width: 100px;
     height: 4px;
